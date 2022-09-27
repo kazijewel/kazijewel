@@ -19,3 +19,5 @@
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kazijewel&theme=icegray&date_format=j%20M%5B%20Y%5D&border=DD2727)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazijewel&layout=compact)](https://github.com/kazijewel/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazijewel&show_icons=true&theme=radical)
