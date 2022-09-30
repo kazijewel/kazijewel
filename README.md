@@ -86,3 +86,4 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kazijewel&theme=buddhism" width="600" height="300"/>
 </div>
+![GitHub metrics](https://metrics.lecoq.io/kazijewel)  
