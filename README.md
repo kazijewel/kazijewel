@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Kazi Safiul Kadar
+### Hi there 👋, My Name Is Kazi Safiul Kadar
 #### I am Software Developer
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
